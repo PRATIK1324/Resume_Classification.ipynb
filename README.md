@@ -18,3 +18,5 @@ It uses **text extraction**, **TF-IDF vectorization**, and a **Naive Bayes class
 - **Textract** / **python-docx**
 - **Pandas**
 - **Streamlit** / **Flask**
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c3dbf850-f5ec-43f5-8be7-ae2d0dc652c9" />
