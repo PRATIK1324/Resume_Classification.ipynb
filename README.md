@@ -1,4 +1,7 @@
 # Resume Classification
+Acceptance criteria:
+To build the best model which gives the maximum performance, and need to deploy the
+model with either RShiny or Flask/ stream lit
 
 Machine learning project that classifies documents as Resume or Financial Document using text extraction, TF-IDF vectorization, and a Naive Bayes model. Designed to automate HR document processing and deployable via Streamlit or Flask.
 
